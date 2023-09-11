@@ -1,1 +1,5 @@
+Even the simplest board needs design detail beyond the tracks and pads that implement the circuit. It might be the board dimensions or the fabrication detail, it might be the component courtyards, or it might be the 3D component models.
+According to my perspective, there are three sets of layer types; one set is for signal and plane layers , the other for mechanical layers and last one is for component layer pairs.
 
+In Signal And Plane Layers region, make the Top and Bottom layers visible by clicking the eye icon respectively. 
+In Component Layer Pairs region, make all layers under Top visible by clicking eye icon to the left of Top and hide all layers for Bottom. In my opinion Hide Solder, Paste and Designator layers for Top.
